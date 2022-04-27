@@ -9,9 +9,12 @@
 <h2 align="center"> Descrição </h2>
 <p align="center">
  O projeto tem como objetivo recriar o menu da plataforma Netflix para se colocar os conhecimentos adquiridos no bootcamp em pratica.
-![image](https://user-images.githubusercontent.com/62728106/165596019-50935d5d-d786-4f44-acfc-ee01a931487e.png)
+	
+	![image](https://user-images.githubusercontent.com/62728106/165596019-50935d5d-d786-4f44-acfc-ee01a931487e.png)
+	
 pode escolher os filmes, series e animes, ao se rolar a barra de catalogo a baixo!
-  ![image](https://user-images.githubusercontent.com/62728106/165596240-5a8bede1-d9ea-41e2-bce4-e3b93524a7fd.png)
+	
+  	![image](https://user-images.githubusercontent.com/62728106/165596240-5a8bede1-d9ea-41e2-bce4-e3b93524a7fd.png)
 
 
 
